@@ -1,0 +1,115 @@
+header{
+    border-style: solid;
+  border-width: 5px;
+    background-image: url(azsunheader.png), url(azsunheader.png);
+  background-repeat: no-repeat, repeat;
+width: 100%;
+height: 300px;
+background-color: burlywood;
+}
+
+blockquote{
+  text-align: center;
+  font-size: 25px;
+  color: white;
+}
+
+
+body{
+    background-color: rgb(90, 70, 103);
+}
+
+#link{
+  color: aliceblue;
+}
+
+#sec1{
+    border-style: solid;
+  border-width: 5px;
+    background-image: url(maybe.png), url(maybe.png);
+  background-repeat: no-repeat, repeat;
+  background-repeat: no-repeat, repeat;
+    /* float:right; */
+margin-top: 150px;
+margin-right: 300px;
+height: 300px;
+width: 300px;
+background-color: chocolate;
+}
+
+#fill{
+    text-align: center;
+    color: white;
+}
+
+#whit{
+    text-align: center;
+    color: white;
+}
+
+#sec2{
+    border-style: solid;
+  border-width: 5px;
+    background-image: url(prettyneat.png), url(prettyneat.png);
+  background-repeat: no-repeat, repeat;
+    /* float:left; */
+    margin-top: 150px;
+    /* margin-left: 300px; */
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+}
+
+#sec3{
+    border-style: solid;
+  border-width: 5px;
+    float:center;
+    /* margin-left: 550px; */
+    /* margin-top: 630px; */
+    height: 400px;
+    width: 400px;
+    background-color: rgb(158, 125, 209);
+}
+
+pre{
+  text-align: left;
+}
+
+
+h1{
+  text-align: center;
+}
+
+
+body{
+    margin: 0px; 
+}
+
+footer{
+    margin-top: 10%;
+    width: 100%;
+height: 100px;
+    background-color: rgb(90, 70, 103); 
+    color: white; 
+}
+
+iframe{
+    height: 102px;
+    width: 100%;
+}
+.container,.container-1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin-bottom:60px; */
+
+}
+.container-1 section{
+  margin-bottom:5rem;
+  /* margin: 0 auto; */
+  /* justify-content: space-evenly; */
+}
+
+.sun{
+height: 200px;
+}
